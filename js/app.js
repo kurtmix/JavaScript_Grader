@@ -14,4 +14,6 @@ function giveGrade(){
    alert("F");}   
 //Input your code below:
 //
-  }
+  } 
+
+  /* cool */
