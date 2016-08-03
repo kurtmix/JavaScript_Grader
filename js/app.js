@@ -1,5 +1,5 @@
 // Grading App
-function giveGrade() {
+function giveGrade(){
   var grade = document.getElementById("grade").value;
 
   if (grade>=100 && grade>=90){
