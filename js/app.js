@@ -2,7 +2,7 @@
 function giveGrade(){
   var grade = document.getElementById("grade").value;
 
-  if (grade>=100 && grade>=90){
+  if (grade<=100 && grade>=90){
    alert("A");}
  else if (grade<=89 && grade>=80){
    alert("B");}
